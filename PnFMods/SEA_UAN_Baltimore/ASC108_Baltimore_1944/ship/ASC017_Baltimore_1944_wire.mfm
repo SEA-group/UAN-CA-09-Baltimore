@@ -1,0 +1,14 @@
+<ASC017_Baltimore_1944_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944_n.dds	</Texture>
+	</property>
+</ASC017_Baltimore_1944_wire.mfm>

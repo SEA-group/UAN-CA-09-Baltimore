@@ -1,0 +1,20 @@
+<AGM019_8in55_CA68_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.200000	</Float>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/gun/AGM019_8in55_CA68_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/gun/AGM019_8in55_CA68_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/gun/AGM019_8in55_CA68_a.dds	</Texture>
+	</property>
+</AGM019_8in55_CA68_skinned.mfm>

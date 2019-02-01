@@ -20,7 +20,7 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	float_mod	</identifier>
+				<identifier>	mod	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
@@ -29,15 +29,15 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	propeller_disk	</identifier>
+				<identifier>	propeller_mod	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000002 0.188791 0.231284 1.000000	</row3>
+					<row3>	0.000000 0.187289 0.202626 1.000000	</row3>
 				</transform>
 				<node>
-					<identifier>	disk	</identifier>
+					<identifier>	disc	</identifier>
 					<transform>
 						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
@@ -47,7 +47,7 @@
 				</node>
 			</node>
 			<node>
-				<identifier>	propeller_mod	</identifier>
+				<identifier>	float_mod	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
@@ -100,24 +100,24 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	float_mod	</node>
+		<node>	mod	</node>
 		<geometry>
-			<vertices>	float_mod_lod1Shape.vertices	</vertices>
-			<primitive>	float_mod_lod1Shape.indices	</primitive>
+			<vertices>	mod_lodShape1.vertices	</vertices>
+			<primitive>	mod_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane1	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/aircraft/AAF023_float.mfm	</mfm>
+					<identifier>	PBS_Plane	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/aircraft/AAF023_F4F_float.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	disk	</node>
+		<node>	disc	</node>
 		<geometry>
-			<vertices>	disk_lod1Shape.vertices	</vertices>
-			<primitive>	disk_lod1Shape.indices	</primitive>
+			<vertices>	disc_lod1Shape.vertices	</vertices>
+			<primitive>	disc_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
 					<identifier>	PROPELLERMAT_propeller	</identifier>
@@ -128,14 +128,14 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	propeller_mod	</node>
+		<node>	float_mod	</node>
 		<geometry>
-			<vertices>	propeller_mod_lodShape1.vertices	</vertices>
-			<primitive>	propeller_mod_lodShape1.indices	</primitive>
+			<vertices>	float_mod_lod1Shape.vertices	</vertices>
+			<primitive>	float_mod_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/aircraft/AAF023_F4F_float.mfm	</mfm>
+					<identifier>	PBS_Plane1	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/aircraft/AAF023_float.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

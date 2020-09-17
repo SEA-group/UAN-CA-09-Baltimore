@@ -1,0 +1,9 @@
+<AAF023_F4F_float_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/aircraft/lods/AAF023_F4F_float_lod2	</parent>
+	<extent>	20.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/aircraft/lods/AAF023_F4F_float_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAF023_F4F_float_lod1.model>

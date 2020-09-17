@@ -1,6 +1,6 @@
 <AGM019_8in55_CA68.model>
 	<extent>	5.000000	</extent>
-	<parent>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/gun/AGM019_8in55_CA68_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/gun/lods/AGM019_8in55_CA68_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>

@@ -101,7 +101,7 @@
 			<primitive>	MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -115,7 +115,7 @@
 			<primitive>	MidBack_crack_MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -129,7 +129,7 @@
 			<primitive>	MidBack_crack_MidFront_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/C003_Razlom_old.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -143,7 +143,7 @@
 			<primitive>	MidBack_wire1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -157,7 +157,7 @@
 			<primitive>	MidBack_crack_SternShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -171,7 +171,7 @@
 			<primitive>	MidBack_crack_Stern_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/C003_Razlom_old.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -185,7 +185,7 @@
 			<primitive>	MidBack_patch_SternShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -199,7 +199,7 @@
 			<primitive>	MidBack_patch_Stern_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -213,7 +213,7 @@
 			<primitive>	MidBack_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/ship/ASC017_Baltimore_1944_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

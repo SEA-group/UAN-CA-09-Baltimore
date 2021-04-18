@@ -75,7 +75,7 @@
 			<primitive>	ARS015_Radar_SP1_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Radar	</identifier>
+					<identifier>	SHIPMATX_PBS_Radar	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/radar/ARS015_Radar_SP_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

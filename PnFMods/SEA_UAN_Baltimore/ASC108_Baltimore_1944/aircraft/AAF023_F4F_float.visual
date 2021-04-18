@@ -148,7 +148,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Baltimore/ASC108_Baltimore_1944/aircraft/AAF023_F4F_float_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

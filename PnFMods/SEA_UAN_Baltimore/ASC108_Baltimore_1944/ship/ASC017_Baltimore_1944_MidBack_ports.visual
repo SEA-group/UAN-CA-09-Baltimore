@@ -448,66 +448,138 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC0627	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000010 1.893934 -1.564786 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC0617	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000087 0.413977 -2.628988 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC0625	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000014 0.997985 -2.202686 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC0620	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.000006 1.063777 -0.996536 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC0612	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000003 0.996258 -1.981642 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC1758	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.457202 -0.949609 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	HP_Ship_death_2	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 -0.630165 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2	</identifier>
+				<transform>
+					<row0>	-0.0143 0.0000 0.9999 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9999 0.0000 -0.0143 0.0000	</row2>
+					<row3>	0.6973 0.4123 -0.6434 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0362 0.0000 0.9993 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9993 0.0000 0.0362 0.0000	</row2>
+					<row3>	0.6441 0.4164 -3.9291 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0232 0.0000 -0.9997 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9997 0.0000 0.0232 0.0000	</row2>
+					<row3>	-0.6715 0.4139 -3.1496 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.0398 0.0000 -0.9992 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9992 0.0000 0.0398 0.0000	</row2>
+					<row3>	-0.6832 0.4133 -2.7938 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_4	</identifier>
+				<transform>
+					<row0>	0.0362 0.0000 -0.9993 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9993 0.0000 0.0362 0.0000	</row2>
+					<row3>	-0.6440 0.4164 -3.9291 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_5	</identifier>
+				<transform>
+					<row0>	0.0398 0.0000 0.9992 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9992 0.0000 0.0398 0.0000	</row2>
+					<row3>	0.6834 0.4133 -2.7938 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_6	</identifier>
+				<transform>
+					<row0>	0.0232 0.0000 0.9997 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9997 0.0000 0.0232 0.0000	</row2>
+					<row3>	0.6717 0.4139 -3.1496 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_7	</identifier>
+				<transform>
+					<row0>	-0.0143 0.0000 -0.9999 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9999 0.0000 -0.0143 0.0000	</row2>
+					<row3>	-0.6970 0.4123 -0.6434 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM037_Searchlight_900mm	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2154 1.0638 -0.9965 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM037_Searchlight_900mm_INDEX_1	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.2154 1.0638 -0.9965 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM132_Flag_Box	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.1249 1.0211 -1.4851 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM132_Flag_Box_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.1248 1.0211 -1.4851 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM529_Life_Buoy	</identifier>
+				<transform>
+					<row0>	-0.0220 0.0000 -0.9998 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9998 0.0000 -0.0220 0.0000	</row2>
+					<row3>	-0.6980 0.4572 -0.9496 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM529_Life_Buoy_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.0220 0.0000 0.9998 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9998 0.0000 -0.0220 0.0000	</row2>
+					<row3>	0.6980 0.4572 -0.9496 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
